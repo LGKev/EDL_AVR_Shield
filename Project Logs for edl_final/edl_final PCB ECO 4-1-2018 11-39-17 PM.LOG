@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=IC1 NewDesignator=Attiny84
+Change Component Designator: OldDesignator=U1 NewDesignator=328p
+Change Component Designator: OldDesignator=U3 NewDesignator=ACCL
+Change Net Name : Old Net Name=NetAD_5 New Net Name=Net328p_23
+Change Net Name : Old Net Name=NetAD_6 New Net Name=Net328p_24
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetACCL_20
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetACCL_10
+Change Net Name : Old Net Name=NetIC2_3 New Net Name=NetACCL_23
+Change Net Name : Old Net Name=NetIC3_3 New Net Name=NetACCL_24
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=Net328p_14
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=Net328p_15
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=Net328p_13
+Change Net Name : Old Net Name=NetJ1_5 New Net Name=Net328p_25
+Change Net Name : Old Net Name=NetU3_12 New Net Name=NetACCL_12
