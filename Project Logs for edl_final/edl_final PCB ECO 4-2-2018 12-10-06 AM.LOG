@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=IO0 Pin=IOL-1
+Removed Pin From Net: NetName=IO1 Pin=IOL-2
+Removed Pin From Net: NetName=IO2 Pin=IOL-3
+Removed Pin From Net: NetName=IO3 Pin=IOL-4
+Removed Pin From Net: NetName=IO4 Pin=IOL-5
+Removed Pin From Net: NetName=IO5 Pin=IOL-6
+Removed Pin From Net: NetName=IO6 Pin=IOL-7
+Removed Pin From Net: NetName=IO7 Pin=IOL-8
+Removed Member From Class: ClassName=edl_final Member=IOL
+Added Component: Designator=J2(1X06_NO_SILK)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=IO3 Pin=328p-1
+Added Pin To Net: NetName=IO2 Pin=328p-2
+Added Pin To Net: NetName=IO6 Pin=328p-8
+Added Pin To Net: NetName=IO7 Pin=328p-9
+Added Pin To Net: NetName=IO8 Pin=328p-10
+Added Pin To Net: NetName=IO9 Pin=328p-11
+Added Pin To Net: NetName=IO10 Pin=328p-12
+Added Pin To Net: NetName=IO11 Pin=328p-13
+Added Pin To Net: NetName=IO12 Pin=328p-14
+Added Pin To Net: NetName=IO0 Pin=328p-26
+Added Pin To Net: NetName=IO1 Pin=328p-27
+Added Pin To Net: NetName=IO2 Pin=328p-28
+Added Pin To Net: NetName=IO12 Pin=ICSP-1
+Added Pin To Net: NetName=IO11 Pin=ICSP-4
+Added Pin To Net: NetName=IO1 Pin=J2-2
+Added Pin To Net: NetName=IO0 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=Net328p_19 Pin=328p-19
+Added Net: Name=Net328p_19
+Added Pin To Net: NetName=Net328p_20 Pin=328p-20
+Added Net: Name=Net328p_20
+Added Pin To Net: NetName=Net328p_21 Pin=328p-21
+Added Net: Name=Net328p_21
+Added Pin To Net: NetName=Net328p_22 Pin=328p-22
+Added Net: Name=Net328p_22
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=VCC Pin=J2-5
+Added Net: Name=VCC
+Added Member To Class: ClassName=edl_final Member=Component J2 HC-05 Header
