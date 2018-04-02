@@ -1,0 +1,23 @@
+Added Component: Designator=IC3(FAIRCHILD SOT-23-6 SuperSOT-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/datasheets/FD/FDC3601N.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/FDC3601N/FDC3601NTR-ND/979780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Continuous Drain"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "SOT-23-6 Thin, TSOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Logic Level Gate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg)"; Value = "5nC @ 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) at Vds"; Value = "153pF @ 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "9695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDC3601N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power - Max"; Value = "700mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.2104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) at Id, Vgs"; Value = "500 mOhm @ 1A, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FDC3601NTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "2 N-Channel (Dual)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) at Id"; Value = "4V @ 250uA"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=edl_final Member=Component IC3 FDC3601N
