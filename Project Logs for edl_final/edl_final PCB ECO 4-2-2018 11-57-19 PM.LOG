@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=5V Pin=C5-2
+Removed Pin From Net: NetName=NetJ1_1 Pin=J1-1
+Removed Pin From Net: NetName=5V Pin=J1-2
+Removed Pin From Net: NetName=Net328p_15 Pin=J1-3
+Removed Pin From Net: NetName=NetJ1_4 Pin=J1-4
+Removed Pin From Net: NetName=Net328p_25 Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-6
+Added Component: Designator=1(OSCCC200X160X50)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(2X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(1X02)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(BT34P-SMD-1.5-26.9X13.0X2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=GND Pin=1-4
+Added Pin To Net: NetName=Net328p_21 Pin=ACCL-12
+Added Pin To Net: NetName=GND Pin=Attiny84-8
+Added Pin To Net: NetName=5V Pin=Attiny84-9
+Added Pin To Net: NetName=GND Pin=Attiny84-21
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=5V Pin=J1-2
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=IO1 Pin=J2-2
+Added Pin To Net: NetName=IO0 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=VCC Pin=J2-5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=IO6 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=3V3 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=Net1_1 Pin=328p-6
+Added Net: Name=Net1_1
+Added Pin To Net: NetName=Net1_3 Pin=1-3
+Added Pin To Net: NetName=Net1_3 Pin=328p-5
+Added Net: Name=Net1_3
+Added Net: Name=Net2_1
+Added Net: Name=Net3_1
+Added Pin To Net: NetName=Net328p_7 Pin=328p-7
+Added Pin To Net: NetName=Net328p_7 Pin=U1-34
+Added Net: Name=Net328p_7
+Added Pin To Net: NetName=NetAttiny84_1 Pin=Attiny84-1
+Added Net: Name=NetAttiny84_1
+Added Pin To Net: NetName=NetAttiny84_2 Pin=Attiny84-2
+Added Net: Name=NetAttiny84_2
+Added Pin To Net: NetName=NetAttiny84_3 Pin=Attiny84-3
+Added Net: Name=NetAttiny84_3
+Added Pin To Net: NetName=NetAttiny84_4 Pin=Attiny84-4
+Added Net: Name=NetAttiny84_4
+Added Pin To Net: NetName=NetAttiny84_5 Pin=Attiny84-5
+Added Net: Name=NetAttiny84_5
+Added Pin To Net: NetName=NetAttiny84_13 Pin=Attiny84-13
+Added Net: Name=NetAttiny84_13
+Added Pin To Net: NetName=NetAttiny84_15 Pin=Attiny84-15
+Added Net: Name=NetAttiny84_15
+Added Pin To Net: NetName=NetAttiny84_16 Pin=Attiny84-16
+Added Net: Name=NetAttiny84_16
+Added Pin To Net: NetName=NetAttiny84_20 Pin=Attiny84-20
+Added Net: Name=NetAttiny84_20
+Added Pin To Net: NetName=NetC11_2 Pin=U1-32
+Added Net: Name=NetC11_2
+Added Net: Name=NetIC5_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=RX_Lowside Pin=U1-1
+Added Net: Name=RX_Lowside
+Added Pin To Net: NetName=TX_Lowside Pin=U1-2
+Added Net: Name=TX_Lowside
+Added Member To Class: ClassName=edl_final Member=Component 1 FA238
+Added Member To Class: ClassName=edl_final Member=Component S1 Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233  associat
+Added Member To Class: ClassName=edl_final Member=Component U1 MOUDLE-BLUETOOTH-HC-05(34P-27X13MM)
