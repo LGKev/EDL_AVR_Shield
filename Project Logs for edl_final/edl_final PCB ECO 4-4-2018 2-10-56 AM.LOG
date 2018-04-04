@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=5V Pin=ST2-1
+Change Component Comment : Designator=ST4 Old Comment=2PTH New Comment=10VDC
+Change Component Designator: OldDesignator=ST1 NewDesignator=5V
+Change Component Designator: OldDesignator=ST2 NewDesignator=3.3V
+Change Component Designator: OldDesignator=ST3 NewDesignator=3.3V
+Change Component Designator: OldDesignator=ST5 NewDesignator=10VDC
+Change Component Designator: OldDesignator=ST6 NewDesignator=5V
+Added Pin To Net: NetName=5V Pin=ST4-1
+Added Pin To Net: NetName=3V3 Pin=3.3V-1
+Added Pin To Net: NetName=5V Pin=5V-1
+Added Pin To Net: NetName=5V Pin=5V-1
+Added Pin To Net: NetName=5V Pin=10V-2
+Added Pin To Net: NetName=5V Pin=10V-2
+Added Pin To Net: NetName=5V Pin=10VDC-1
+Added Pin To Net: NetName=5V Pin=C12-1
+Added Pin To Net: NetName=5V Pin=C16-2
+Added Pin To Net: NetName=5V Pin=C17-2
+Added Pin To Net: NetName=5V Pin=C18-2
+Added Pin To Net: NetName=5V Pin=C19-2
+Added Pin To Net: NetName=5V Pin=IC7-4
+Added Pin To Net: NetName=5V Pin=IC8-3
+Added Pin To Net: NetName=5V Pin=IC9-3
+Added Pin To Net: NetName=5V Pin=R13-2
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 5V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 10V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432

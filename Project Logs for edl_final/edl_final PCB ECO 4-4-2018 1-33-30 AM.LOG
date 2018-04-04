@@ -1,0 +1,268 @@
+Removed Pin From Net: NetName=IO2 Pin=328p-2
+Removed Pin From Net: NetName=Net328p_21 Pin=ACCL-12
+Removed Pin From Net: NetName=NetAttiny84_4 Pin=IC5-3
+Removed Pin From Net: NetName=Net328p_19 Pin=IC6-2
+Removed Pin From Net: NetName=NetAttiny84_3 Pin=IC6-3
+Removed Pin From Net: NetName=RESET Pin=ICSP-5
+Removed Pin From Net: NetName=NetAttiny84_4 Pin=R14-1
+Removed Pin From Net: NetName=NetAttiny84_3 Pin=R19-1
+Removed Pin From Net: NetName=Net328p_19 Pin=R20-1
+Removed Member From Class: ClassName=edl_final Member=R16
+Change Component Footprint: Designator=R13 Old Footprint=RES 0402/1005 New Footprint=RES 0603/1608
+Change Component Comment : Designator=R13 Old Comment=2.2k New Comment=1K
+Change component parameters: Designator = "R13"; Footprint = "RES 0603/1608"; UniqueID = "\FKRSWBPS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF49R9V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=3.3V(1X02)
+Add component. Clean all parameters for all variants
+Added Component: Designator=3.3V(1X02)
+Add component. Clean all parameters for all variants
+Added Component: Designator=4(2Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5(2Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5V(1X02)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5V(1X02)
+Add component. Clean all parameters for all variants
+Added Component: Designator=10V(1X02)
+Add component. Clean all parameters for all variants
+Added Component: Designator=10V(1X02)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(CAP ALUM 6.6MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://nichicon-us.com/english/products/pdfs/e-wj.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/UWJ1E220MCL1GB/493-9792-2-ND/2550761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime @ Temp"; Value = "2000 Hrs @ 85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UWJ1E220MCL1GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "42mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "493-9792-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40C ~ 85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP ALUM 6.6MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://nichicon-us.com/english/products/pdfs/e-wj.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/UWJ1E220MCL1GB/493-9792-2-ND/2550761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime @ Temp"; Value = "2000 Hrs @ 85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UWJ1E220MCL1GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "42mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "493-9792-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40C ~ 85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "C1608X7R1E104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "C1608X7R1E104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "C1608X7R1E104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "C1608X7R1E104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "C1608X7R1E104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "C1608X7R1E104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "C1608X7R1E104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "C1608X7R1E104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=H1(power pads)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(power pads)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC7(dcdc)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "cost"; Value = "2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_link"; Value = "https://www.amazon.com/eBoot-LM2596-Converter-3-0-40V-1-5-35V/dp/B01GJ0SC2C/ref=pd_lpo_vtph_23_bs_img_1?_encoding=UTF8&psc=1&refRID=1HEKQ30H00S5GXGRFCP7"; VariantName = "[No Variations]"
+Added Component: Designator=IC8(ON SEMI SOT-223 ST(318H))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "NCP1117ST15T3G"; VariantName = "[No Variations]"
+Added Component: Designator=IC9(ON SEMI SOT-223 ST(318H))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "NCP1117ST15T3G"; VariantName = "[No Variations]"
+Added Component: Designator=K1(xt60pth)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PWR1(LED 0603/1608 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "LTST-C191KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=ST1(2Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ST2(2Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ST3(2Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ST4(2Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ST5(2Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ST6(2Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1(TP_SMD_GND)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TP_SMD_GND)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=3.3V-1
+Added Pin To Net: NetName=GND Pin=3.3V-1
+Added Pin To Net: NetName=3V3 Pin=3.3V-2
+Added Pin To Net: NetName=3V3 Pin=3.3V-2
+Added Pin To Net: NetName=GND Pin=4-1
+Added Pin To Net: NetName=5V Pin=4-2
+Added Pin To Net: NetName=GND Pin=5-1
+Added Pin To Net: NetName=3V3 Pin=5-2
+Added Pin To Net: NetName=GND Pin=5V-1
+Added Pin To Net: NetName=GND Pin=5V-1
+Added Pin To Net: NetName=5V Pin=5V-2
+Added Pin To Net: NetName=5V Pin=5V-2
+Added Pin To Net: NetName=GND Pin=10V-1
+Added Pin To Net: NetName=GND Pin=10V-1
+Added Pin To Net: NetName=SCK Pin=328p-15
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=5V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=5V Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=3V3 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=5V Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-2
+Added Pin To Net: NetName=Net328p_24 Pin=IC5-2
+Added Pin To Net: NetName=NetAttiny84_1 Pin=IC5-3
+Added Pin To Net: NetName=Net328p_23 Pin=IC6-2
+Added Pin To Net: NetName=NetAttiny84_16 Pin=IC6-3
+Added Pin To Net: NetName=GND Pin=IC7-2
+Added Pin To Net: NetName=GND Pin=IC7-3
+Added Pin To Net: NetName=GND Pin=IC8-1
+Added Pin To Net: NetName=5V Pin=IC8-2
+Added Pin To Net: NetName=5V Pin=IC8-4
+Added Pin To Net: NetName=GND Pin=IC9-1
+Added Pin To Net: NetName=3V3 Pin=IC9-2
+Added Pin To Net: NetName=3V3 Pin=IC9-4
+Added Pin To Net: NetName=NetC11_2 Pin=ICSP-5
+Added Pin To Net: NetName=NetAttiny84_20 Pin=J1-1
+Added Pin To Net: NetName=NetAttiny84_1 Pin=J1-3
+Added Pin To Net: NetName=NetAttiny84_16 Pin=J1-4
+Added Pin To Net: NetName=NetAttiny84_13 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND Pin=PWR1-2
+Added Pin To Net: NetName=NetAttiny84_1 Pin=R14-1
+Added Pin To Net: NetName=Net328p_24 Pin=R15-1
+Added Pin To Net: NetName=NetAttiny84_16 Pin=R19-1
+Added Pin To Net: NetName=Net328p_23 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=ST1-2
+Added Pin To Net: NetName=5V Pin=ST2-1
+Added Pin To Net: NetName=GND Pin=ST2-2
+Added Pin To Net: NetName=3V3 Pin=ST3-1
+Added Pin To Net: NetName=GND Pin=ST3-2
+Added Pin To Net: NetName=GND Pin=ST4-2
+Added Pin To Net: NetName=GND Pin=ST5-2
+Added Pin To Net: NetName=GND Pin=ST6-2
+Added Pin To Net: NetName=3V3 Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=\R\E\S\E\T\
+Added Pin To Net: NetName=10VDC Pin=10V-2
+Added Pin To Net: NetName=10VDC Pin=10V-2
+Added Pin To Net: NetName=10VDC Pin=C12-1
+Added Pin To Net: NetName=10VDC Pin=C16-2
+Added Pin To Net: NetName=10VDC Pin=C17-2
+Added Pin To Net: NetName=10VDC Pin=C18-2
+Added Pin To Net: NetName=10VDC Pin=C19-2
+Added Pin To Net: NetName=10VDC Pin=IC7-4
+Added Pin To Net: NetName=10VDC Pin=IC8-3
+Added Pin To Net: NetName=10VDC Pin=IC9-3
+Added Pin To Net: NetName=10VDC Pin=R13-2
+Added Pin To Net: NetName=10VDC Pin=ST1-1
+Added Pin To Net: NetName=10VDC Pin=ST4-1
+Added Pin To Net: NetName=10VDC Pin=ST5-1
+Added Pin To Net: NetName=10VDC Pin=ST6-1
+Added Net: Name=10VDC
+Added Pin To Net: NetName=Net328p_2 Pin=328p-2
+Added Pin To Net: NetName=Net328p_2 Pin=ACCL-12
+Added Net: Name=Net328p_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=IC7-1
+Added Pin To Net: NetName=NetC13_1 Pin=K1-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetPWR1_1 Pin=PWR1-1
+Added Pin To Net: NetName=NetPWR1_1 Pin=R13-1
+Added Net: Name=NetPWR1_1
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 4 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 5V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 10V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 10V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component C12 22uF
+Added Member To Class: ClassName=edl_final Member=Component C13 22uF
+Added Member To Class: ClassName=edl_final Member=Component C14 47uF
+Added Member To Class: ClassName=edl_final Member=Component C15 47uF
+Added Member To Class: ClassName=edl_final Member=Component C16 47uF
+Added Member To Class: ClassName=edl_final Member=Component C17 47uF
+Added Member To Class: ClassName=edl_final Member=Component C18 47uF
+Added Member To Class: ClassName=edl_final Member=Component C19 47uF
+Added Member To Class: ClassName=edl_final Member=Component C20 47uF
+Added Member To Class: ClassName=edl_final Member=Component C21 47uF
+Added Member To Class: ClassName=edl_final Member=Component H1 PWR
+Added Member To Class: ClassName=edl_final Member=Component H2 PWR
+Added Member To Class: ClassName=edl_final Member=Component IC7 DCDC buck
+Added Member To Class: ClassName=edl_final Member=Component IC8 5v
+Added Member To Class: ClassName=edl_final Member=Component IC9 NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component K1 XT60 PTH
+Added Member To Class: ClassName=edl_final Member=Component PWR1 Colour
+Added Member To Class: ClassName=edl_final Member=Component ST1 2PTH
+Added Member To Class: ClassName=edl_final Member=Component ST2 2PTH
+Added Member To Class: ClassName=edl_final Member=Component ST3 2PTH
+Added Member To Class: ClassName=edl_final Member=Component ST4 2PTH
+Added Member To Class: ClassName=edl_final Member=Component ST5 2PTH
+Added Member To Class: ClassName=edl_final Member=Component ST6 2PTH
+Added Member To Class: ClassName=edl_final Member=Component TP1 TP_smd
+Added Member To Class: ClassName=edl_final Member=Component TP2 TP_smd
