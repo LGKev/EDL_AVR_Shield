@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=5V Pin=J1-2
+Removed Pin From Net: NetName=NetAttiny84_1 Pin=J1-3
+Removed Pin From Net: NetName=NetAttiny84_16 Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Member From Class: ClassName=edl_final Member=J1
+Added Component: Designator=84ISP(smd36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "digikey"; Value = "SAM10788-ND"; VariantName = "[No Variations]"
+Added Component: Designator=328ISP(smd36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "digikey"; Value = "SAM10788-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAttiny84_1 Pin=84ISP-2
+Added Pin To Net: NetName=GND Pin=84ISP-4
+Added Pin To Net: NetName=NetAttiny84_16 Pin=84ISP-5
+Added Pin To Net: NetName=5V Pin=84ISP-6
+Added Pin To Net: NetName=IO12 Pin=328ISP-1
+Added Pin To Net: NetName=SCK Pin=328ISP-2
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=328ISP-3
+Added Pin To Net: NetName=GND Pin=328ISP-4
+Added Pin To Net: NetName=IO11 Pin=328ISP-5
+Added Pin To Net: NetName=5V Pin=328ISP-6
+Change Net Name : Old Net Name=NetAttiny84_1 New Net Name=Net84ISP_2
+Change Net Name : Old Net Name=NetAttiny84_16 New Net Name=Net84ISP_5
+Added Pin To Net: NetName=Net84ISP_1 Pin=84ISP-1
+Added Pin To Net: NetName=Net84ISP_1 Pin=Attiny84-20
+Added Pin To Net: NetName=Net84ISP_1 Pin=J3-5
+Added Net: Name=Net84ISP_1
+Added Pin To Net: NetName=Net84ISP_3 Pin=84ISP-3
+Added Pin To Net: NetName=Net84ISP_3 Pin=Attiny84-13
+Added Pin To Net: NetName=Net84ISP_3 Pin=R10-1
+Added Net: Name=Net84ISP_3
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
+Added Member To Class: ClassName=edl_final Member=Component 10VDC
+Added Member To Class: ClassName=edl_final Member=Component 10VDC Colour
+Added Member To Class: ClassName=edl_final Member=Component 84ISP smd2x6_90*
+Added Member To Class: ClassName=edl_final Member=Component 328ISP smd2x6_90*

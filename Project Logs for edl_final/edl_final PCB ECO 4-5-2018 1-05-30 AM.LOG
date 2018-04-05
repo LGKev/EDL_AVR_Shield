@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=IO6 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Member From Class: ClassName=edl_final Member=S1
+Added Component: Designator=ADC012(smd36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "digikey"; Value = "SAM10788-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J6(smd36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "digikey"; Value = "SAM10788-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ADC012-1
+Added Pin To Net: NetName=GND Pin=ADC012-2
+Added Pin To Net: NetName=GND Pin=ADC012-3
+Added Pin To Net: NetName=Net328p_19 Pin=ADC012-4
+Added Pin To Net: NetName=Net328p_20 Pin=ADC012-5
+Added Pin To Net: NetName=Net328p_21 Pin=ADC012-6
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=IO6 Pin=J6-4
+Added Pin To Net: NetName=Net328p_22 Pin=J6-6
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
+Added Member To Class: ClassName=edl_final Member=Component 10VDC
+Added Member To Class: ClassName=edl_final Member=Component 10VDC Colour
+Added Member To Class: ClassName=edl_final Member=Component ADC012 smd2x6_90*
+Added Member To Class: ClassName=edl_final Member=Component J6 smd2x6_90*

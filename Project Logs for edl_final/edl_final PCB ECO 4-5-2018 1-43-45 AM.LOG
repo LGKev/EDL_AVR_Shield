@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=Net328p_23 Pin=IOH-9
+Added Pin To Net: NetName=Net328p_24 Pin=IOH-10
+Change Net Name : Old Net Name=Net328p_23 New Net Name=SDA
+Change Net Name : Old Net Name=Net328p_24 New Net Name=SCL
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
+Added Member To Class: ClassName=edl_final Member=Component 10VDC
+Added Member To Class: ClassName=edl_final Member=Component 10VDC Colour

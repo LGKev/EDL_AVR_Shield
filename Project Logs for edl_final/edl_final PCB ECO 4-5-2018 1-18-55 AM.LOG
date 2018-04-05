@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=H1-1
+Removed Pin From Net: NetName=5V Pin=H1-2
+Removed Member From Class: ClassName=edl_final Member=H1
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
+Added Member To Class: ClassName=edl_final Member=Component 10VDC
+Added Member To Class: ClassName=edl_final Member=Component 10VDC Colour

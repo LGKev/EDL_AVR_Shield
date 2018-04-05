@@ -1,0 +1,33 @@
+Added Component: Designator=ICSP(ICSP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2699117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2699116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "SAM1185-06-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "2699091"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "SAM1196-06-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO13 Pin=328ISP-2
+Added Pin To Net: NetName=IO13 Pin=328p-15
+Added Pin To Net: NetName=IO12 Pin=ICSP-1
+Added Pin To Net: NetName=5V Pin=ICSP-2
+Added Pin To Net: NetName=IO13 Pin=ICSP-3
+Added Pin To Net: NetName=IO11 Pin=ICSP-4
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=ICSP-5
+Added Pin To Net: NetName=GND Pin=ICSP-6
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=POWER-6
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
+Added Member To Class: ClassName=edl_final Member=Component 10VDC
+Added Member To Class: ClassName=edl_final Member=Component 10VDC Colour
+Added Member To Class: ClassName=edl_final Member=Component ICSP
+Added Room: Name=edl_final

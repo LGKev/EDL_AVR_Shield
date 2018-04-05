@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=IO12 Pin=ICSP-1
+Removed Pin From Net: NetName=5V Pin=ICSP-2
+Removed Pin From Net: NetName=IO13 Pin=ICSP-3
+Removed Pin From Net: NetName=IO11 Pin=ICSP-4
+Removed Pin From Net: NetName=\R\E\S\E\T\ Pin=ICSP-5
+Removed Pin From Net: NetName=GND Pin=ICSP-6
+Removed Member From Class: ClassName=edl_final Member=ICSP
+Change Net Name : Old Net Name=\R\E\S\E\T\ New Net Name=Net328ISP_3
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
+Added Member To Class: ClassName=edl_final Member=Component 10VDC
+Added Member To Class: ClassName=edl_final Member=Component 10VDC Colour
