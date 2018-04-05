@@ -1,0 +1,76 @@
+Change Component Footprint: Designator=R13 Old Footprint=RES 0603/1608 New Footprint=RES 0402/1005
+Change Component Comment : Designator=R13 Old Comment=1K New Comment=10k
+Change Component Comment : Designator=R18 Old Comment=150 New Comment=1k
+Change Component Comment : Designator=R17 Old Comment=150 New Comment=
+Change component parameters: Designator = "R17"; Footprint = "RES 0402/1005"; UniqueID = "\MSHCCDYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ2RKF1002X+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/ERJ-2RKF1002X/P10.0KLTR-ND/192073"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF1002X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.0043"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KLTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoefficient"; Value = "100ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RES 0402/1005"; UniqueID = "\NBKLSSOE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ2RKF1002X+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/ERJ-2RKF1002X/P10.0KLTR-ND/192073"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF1002X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.0043"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KLTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoefficient"; Value = "100ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RES 0402/1005"; UniqueID = "\WRVYSJYI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ2RKF1002X+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/ERJ-2RKF1002X/P10.0KLTR-ND/192073"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF1002X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.0043"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KLTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoefficient"; Value = "100ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 5V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
+Added Member To Class: ClassName=edl_final Member=Component 10VDC
+Added Member To Class: ClassName=edl_final Member=Component 10VDC Colour
+Added Member To Class: ClassName=edl_final Member=Component 10V Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432

@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=GND Pin=10V-1
+Removed Pin From Net: NetName=5V Pin=10V-2
+Removed Pin From Net: NetName=GND Pin=H2-1
+Removed Pin From Net: NetName=3V3 Pin=H2-2
+Removed Pin From Net: NetName=3V3 Pin=TP1-1
+Removed Pin From Net: NetName=GND Pin=TP2-1
+Removed Member From Class: ClassName=edl_final Member=10V
+Removed Member From Class: ClassName=edl_final Member=AT_ADC_012
+Removed Member From Class: ClassName=edl_final Member=AT_ADC_357
+Removed Member From Class: ClassName=edl_final Member=H2
+Removed Member From Class: ClassName=edl_final Member=TP1
+Added Component: Designator=J2(smd36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "digikey"; Value = "SAM10788-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J3(smd36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "digikey"; Value = "SAM10788-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J4(smd36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "digikey"; Value = "SAM10788-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J5(smd36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "digikey"; Value = "SAM10788-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=5V Pin=J4-4
+Added Pin To Net: NetName=5V Pin=J4-5
+Added Pin To Net: NetName=5V Pin=J4-6
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=3V3 Pin=J5-4
+Added Pin To Net: NetName=3V3 Pin=J5-5
+Added Pin To Net: NetName=5V Pin=J5-6
+Added Pin To Net: NetName=NetAttiny84_2 Pin=Attiny84-2
+Added Pin To Net: NetName=NetAttiny84_2 Pin=J3-6
+Added Net: Name=NetAttiny84_2
+Added Pin To Net: NetName=NetAttiny84_3 Pin=Attiny84-3
+Added Pin To Net: NetName=NetAttiny84_3 Pin=J2-4
+Added Net: Name=NetAttiny84_3
+Added Pin To Net: NetName=NetAttiny84_4 Pin=Attiny84-4
+Added Pin To Net: NetName=NetAttiny84_4 Pin=J2-5
+Added Net: Name=NetAttiny84_4
+Added Pin To Net: NetName=NetAttiny84_5 Pin=Attiny84-5
+Added Pin To Net: NetName=NetAttiny84_5 Pin=J2-6
+Added Net: Name=NetAttiny84_5
+Added Pin To Net: NetName=NetAttiny84_15 Pin=Attiny84-15
+Added Pin To Net: NetName=NetAttiny84_15 Pin=J3-4
+Added Net: Name=NetAttiny84_15
+Added Pin To Net: NetName=NetAttiny84_20 Pin=Attiny84-20
+Added Pin To Net: NetName=NetAttiny84_20 Pin=J1-1
+Added Pin To Net: NetName=NetAttiny84_20 Pin=J3-5
+Added Net: Name=NetAttiny84_20
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 2PTH
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
+Added Member To Class: ClassName=edl_final Member=Component 10VDC
+Added Member To Class: ClassName=edl_final Member=Component 10VDC Colour
+Added Member To Class: ClassName=edl_final Member=Component J2 smd2x6_90*
+Added Member To Class: ClassName=edl_final Member=Component J3 smd2x6_90*
+Added Member To Class: ClassName=edl_final Member=Component J4 smd2x6_90*
+Added Member To Class: ClassName=edl_final Member=Component J5 smd2x6_90*
