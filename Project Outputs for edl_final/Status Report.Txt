@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [edl_final.PrjPcb]
+   Generated File[edl_final.TXT]
+   Generated File[edl_final.LDP]
+   Generated File[edl_final.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:23:35 AM On 4/5/2018

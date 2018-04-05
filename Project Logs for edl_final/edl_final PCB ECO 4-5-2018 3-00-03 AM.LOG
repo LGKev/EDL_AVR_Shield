@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=3.3V-1
+Removed Pin From Net: NetName=3V3 Pin=3.3V-2
+Removed Pin From Net: NetName=5V Pin=3.3V-2
+Removed Pin From Net: NetName=3V3 Pin=3.3V-4
+Removed Pin From Net: NetName=GND Pin=5V-1
+Removed Pin From Net: NetName=3V3 Pin=5V-2
+Removed Pin From Net: NetName=3V3 Pin=C20-2
+Removed Pin From Net: NetName=3V3 Pin=C21-2
+Removed Pin From Net: NetName=3V3 Pin=J5-4
+Removed Pin From Net: NetName=3V3 Pin=J5-5
+Added Pin To Net: NetName=Net3.3V_2 Pin=3.3V-2
+Added Pin To Net: NetName=Net3.3V_2 Pin=3.3V-4
+Added Pin To Net: NetName=Net3.3V_2 Pin=C20-2
+Added Pin To Net: NetName=Net3.3V_2 Pin=C21-2
+Added Pin To Net: NetName=Net3.3V_2 Pin=J5-4
+Added Pin To Net: NetName=Net3.3V_2 Pin=J5-5
+Added Net: Name=Net3.3V_2
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Room: Name=edl_final

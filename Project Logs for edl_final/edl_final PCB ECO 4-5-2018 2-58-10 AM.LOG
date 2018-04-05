@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=10VDC Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=IC7-2
+Removed Pin From Net: NetName=GND Pin=IC7-3
+Removed Pin From Net: NetName=10VDC Pin=IC7-4
+Removed Pin From Net: NetName=10VDC Pin=J4-5
+Removed Pin From Net: NetName=10VDC Pin=J4-6
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Member From Class: ClassName=edl_final Member=C12
+Removed Member From Class: ClassName=edl_final Member=C13
+Removed Member From Class: ClassName=edl_final Member=IC7
+Removed Member From Class: ClassName=edl_final Member=K1
+Added Pin To Net: NetName=NetJ4_5 Pin=J4-5
+Added Pin To Net: NetName=NetJ4_5 Pin=J4-6
+Added Net: Name=NetJ4_5
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 3.3V Colour
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v
+Added Member To Class: ClassName=edl_final Member=Component 5V Colour
