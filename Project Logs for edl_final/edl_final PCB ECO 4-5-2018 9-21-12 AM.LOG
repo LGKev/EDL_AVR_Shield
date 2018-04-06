@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=3V3 Pin=3.3V-2
+Added Pin To Net: NetName=3V3 Pin=3.3V-4
+Added Pin To Net: NetName=3V3 Pin=C20-2
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=3V3 Pin=J5-4
+Added Pin To Net: NetName=3V3 Pin=J5-5
+Added Member To Class: ClassName=edl_final Member=Component 3.3V NCP1117ST15T3G
+Added Member To Class: ClassName=edl_final Member=Component 5V 5v

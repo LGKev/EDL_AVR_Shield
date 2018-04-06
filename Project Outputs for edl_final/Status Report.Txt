@@ -1,21 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [edl_final.PrjPcb]
-   Generated File[edl_final.GTL]
-   Generated File[edl_final.GBL]
-   Generated File[edl_final.GTO]
-   Generated File[edl_final.GTP]
-   Generated File[edl_final.GTS]
-   Generated File[edl_final.GBS]
-   Generated File[edl_final.GBP]
-   Generated File[edl_final.GBO]
-   Generated File[edl_final.GKO]
-   Generated File[edl_final.RUL]
-   Generated File[edl_final.EXTREP]
-   Generated File[edl_final.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [edl_final.PrjPcb]
+   Generated File[edl_final.TXT]
+   Generated File[edl_final.LDP]
+   Generated File[edl_final.DRR]
 
 
-Files Generated   : 12
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 8:43:46 AM On 4/5/2018
+Finished Output Generation At 11:11:39 AM On 4/5/2018

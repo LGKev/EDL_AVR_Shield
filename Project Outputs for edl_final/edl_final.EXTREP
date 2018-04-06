@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: edl_final.GBR   4/5/2018  8:43:33 AM
+Gerber File Extension Report For: edl_final.GBR   4/5/2018  11:11:27 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -12,7 +12,6 @@ Layer Extension     Layer Description
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
